@@ -1,5 +1,7 @@
 # Easy PDF
 
+![Easy PDF](logo.png)
+
 Français / English / Deutsch <br><br>
 
 
