@@ -1,6 +1,8 @@
 # Easy PDF
 
-![Easy PDF](logo.png)
+<div style="text-align:center">
+    <img src="logo.png" alt="Easy PDF" />
+</div>
 
 Français / English / Deutsch <br><br>
 
