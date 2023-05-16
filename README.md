@@ -1,8 +1,8 @@
 # Easy PDF
 
-<div style="text-align:center">
-    <img src="logo.png" alt="Easy PDF" />
-</div>
+<p align="center">
+    <img src="logo.png" alt="Easy PDF Image" />
+</p>
 
 Français / English / Deutsch <br><br>
 
